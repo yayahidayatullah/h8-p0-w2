@@ -1,0 +1,35 @@
+1.Newton Second Law
+
+READ and SAVE 'massa benda' with any value
+READ and SAVE 'percepatan benda' with any value
+CALCULATE 'massa benda' times 'percepatan benda'
+SET 'resultan gaya' value with calculation result
+
+DISPLAY 'resultan gaya'
+
+2.Tahun Kabisat
+
+READ and SAVE 'tahun' with any value
+IF 'tahun' divisible by 4 and not divisible by 100,
+and IF 'tahun' divisible by 4,divisible by 100 and divisible by 400
+
+DISPLAY 'tahun kabisat'
+
+3.Laundry Day
+
+READ and SAVE 'jumlah pakaian' with '20'
+IF 'jumlah pakaian' > '0'
+   'jumlah pakaian' subtract by '1'
+ELSE
+   ALERT 'Nyalakan Mesin'
+
+4.Periksa Kuku
+
+READ and SAVE 'jumlah siswa' with '40'
+IF 'siswa/siswi' 'kuku panjang'
+   DO 'menghukum siswa'
+ELSE
+   DO 'memuji siswa'	
+
+
+
