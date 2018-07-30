@@ -1,5 +1,5 @@
-var nama  = '',
-    peran = '';
+var nama  = '';
+var peran = '';
 
 if (nama !== '' && peran == 'Ksatria') {
 	console.log('"Selamat datang di Dunia Proxytia, ' + nama +'"\n"Halo Ksatria ' + nama + ', kamu dapat menyerang dengan senjatamu!"');
