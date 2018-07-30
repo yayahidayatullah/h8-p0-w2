@@ -1,5 +1,5 @@
 function konversiMenit( menit ) {
-  var jam = Math.floor( menit / 60)
+  var jam = Math.trunc( menit / 60)
   var tangkapMenit = '';
   if( menit % 60 > 9 ) {
     tangkapMenit = menit % 60
