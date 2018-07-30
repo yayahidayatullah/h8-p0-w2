@@ -2,9 +2,9 @@ function xo(str) {
   var hasilX = 0;
   var hasilO = 0;
   for (var x = str.length-1 ; x >= 0 ; x-- ){
-    if(str.charAt([x]) === 'x'){
+    if(str.charAt(x) === 'x'){
       hasilX += 1;
-    }else if(str.charAt([x]) === 'o'){
+    }else if(str.charAt(x) === 'o'){
       hasilO += 1;
     }
   }  
