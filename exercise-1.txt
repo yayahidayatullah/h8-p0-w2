@@ -26,7 +26,7 @@ ELSE
 4.Periksa Kuku
 
 READ and SAVE 'jumlah siswa' with '40'
-IF 'kuku' equal to 'panjang'
+IF 'kuku' equals to 'panjang'
    DO 'menghukum siswa'
 ELSE
    DO 'memuji siswa'	
